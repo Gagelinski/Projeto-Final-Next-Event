@@ -2,12 +2,12 @@ import { useEffect, useState } from "react";
 import Evento from "../interfaces/Evento";
 import axios from "axios";
 
-function BuscarEventoID(){
+function AtualizarEvento(){
      return(
         <div>
-            <h1>Buscar Evento por ID</h1>
+            <h1>Atualizar Evento</h1>
         </div>
      )
 }
 
-export default BuscarEventoID;
+export default AtualizarEvento;

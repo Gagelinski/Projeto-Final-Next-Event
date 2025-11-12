@@ -2,6 +2,8 @@ import { useEffect, useState } from "react";
 import Evento from "../interfaces/Evento";
 import axios from "axios";
 
+//NÃO IREMOS DESENVOLVER ESSA PARTE AINDA
+
 function BuscarEventoID(){
      return(
         <div>

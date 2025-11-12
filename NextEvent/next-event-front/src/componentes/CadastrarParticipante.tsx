@@ -5,6 +5,8 @@ import { error } from "console";
 import axios from "axios";
 //Ja deixei os imports preparados, para não correr o risco de esquecermos, lembrem que devem instalar as bibliotecas localmente.
 
+// ANNA irá desenvolver essa parte até segunda dia 17
+
 function CadastrarParticipante(){
      return(
         <div>
